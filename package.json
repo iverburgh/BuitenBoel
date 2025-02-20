@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "download-sounds": "node scripts/downloadSounds.js"
+  }
+} 
